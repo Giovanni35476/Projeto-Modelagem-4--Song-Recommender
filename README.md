@@ -1,4 +1,4 @@
-# modelagem3-project
+# Projeto-Modelagem-4--Song-Recommender
 Song Recommender
 
 The database-config file generates a artificial environment that contains 11 diferent users that 'listens' some of the 50 available songs.
